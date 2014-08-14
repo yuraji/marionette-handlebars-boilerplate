@@ -1,0 +1,13 @@
+{
+	"name": "myapp",
+	"version": "0.0.1",
+	"ignore": [
+	],
+	"dependencies": {
+		"semantic": ">=0.18",
+		"marionette": "*",
+		"requirejs": "*",
+		"handlebars": "*",
+		"require-handlebars-plugin": "*"
+	}
+}
